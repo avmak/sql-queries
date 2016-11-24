@@ -1,3 +1,4 @@
+-- PostgreSQL 8.4 and >
 --
 -- We have some table:
 --
